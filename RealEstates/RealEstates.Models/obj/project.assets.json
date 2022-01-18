@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Angel\\Entity-Framework-Core---Best-Practices-And-Architecture\\RealEstates\\RealEstates.Models\\RealEstates.Models.csproj",
+      "projectUniqueName": "C:\\Angel Repos\\Entity-Framework-Core---Best-Practices-And-Architecture\\RealEstates\\RealEstates.Models\\RealEstates.Models.csproj",
       "projectName": "RealEstates.Models",
-      "projectPath": "C:\\Angel\\Entity-Framework-Core---Best-Practices-And-Architecture\\RealEstates\\RealEstates.Models\\RealEstates.Models.csproj",
+      "projectPath": "C:\\Angel Repos\\Entity-Framework-Core---Best-Practices-And-Architecture\\RealEstates\\RealEstates.Models\\RealEstates.Models.csproj",
       "packagesPath": "C:\\Users\\georg\\.nuget\\packages\\",
-      "outputPath": "C:\\Angel\\Entity-Framework-Core---Best-Practices-And-Architecture\\RealEstates\\RealEstates.Models\\obj\\",
+      "outputPath": "C:\\Angel Repos\\Entity-Framework-Core---Best-Practices-And-Architecture\\RealEstates\\RealEstates.Models\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\georg\\AppData\\Roaming\\NuGet\\NuGet.Config",

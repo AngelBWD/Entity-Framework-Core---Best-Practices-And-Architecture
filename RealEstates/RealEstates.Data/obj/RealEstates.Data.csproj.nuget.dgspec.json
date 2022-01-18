@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Angel\\Entity-Framework-Core---Best-Practices-And-Architecture\\RealEstates\\RealEstates.Data\\RealEstates.Data.csproj": {}
+    "C:\\Angel Repos\\Entity-Framework-Core---Best-Practices-And-Architecture\\RealEstates\\RealEstates.Data\\RealEstates.Data.csproj": {}
   },
   "projects": {
-    "C:\\Angel\\Entity-Framework-Core---Best-Practices-And-Architecture\\RealEstates\\RealEstates.Data\\RealEstates.Data.csproj": {
+    "C:\\Angel Repos\\Entity-Framework-Core---Best-Practices-And-Architecture\\RealEstates\\RealEstates.Data\\RealEstates.Data.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Angel\\Entity-Framework-Core---Best-Practices-And-Architecture\\RealEstates\\RealEstates.Data\\RealEstates.Data.csproj",
+        "projectUniqueName": "C:\\Angel Repos\\Entity-Framework-Core---Best-Practices-And-Architecture\\RealEstates\\RealEstates.Data\\RealEstates.Data.csproj",
         "projectName": "RealEstates.Data",
-        "projectPath": "C:\\Angel\\Entity-Framework-Core---Best-Practices-And-Architecture\\RealEstates\\RealEstates.Data\\RealEstates.Data.csproj",
+        "projectPath": "C:\\Angel Repos\\Entity-Framework-Core---Best-Practices-And-Architecture\\RealEstates\\RealEstates.Data\\RealEstates.Data.csproj",
         "packagesPath": "C:\\Users\\georg\\.nuget\\packages\\",
-        "outputPath": "C:\\Angel\\Entity-Framework-Core---Best-Practices-And-Architecture\\RealEstates\\RealEstates.Data\\obj\\",
+        "outputPath": "C:\\Angel Repos\\Entity-Framework-Core---Best-Practices-And-Architecture\\RealEstates\\RealEstates.Data\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\georg\\AppData\\Roaming\\NuGet\\NuGet.Config",

@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Angel\\Entity-Framework-Core---Best-Practices-And-Architecture\\RealEstates\\RealEstates.Importer\\RealEstates.Importer.csproj": {}
+    "C:\\Angel Repos\\Entity-Framework-Core---Best-Practices-And-Architecture\\RealEstates\\RealEstates.Importer\\RealEstates.Importer.csproj": {}
   },
   "projects": {
-    "C:\\Angel\\Entity-Framework-Core---Best-Practices-And-Architecture\\RealEstates\\RealEstates.Importer\\RealEstates.Importer.csproj": {
+    "C:\\Angel Repos\\Entity-Framework-Core---Best-Practices-And-Architecture\\RealEstates\\RealEstates.Importer\\RealEstates.Importer.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Angel\\Entity-Framework-Core---Best-Practices-And-Architecture\\RealEstates\\RealEstates.Importer\\RealEstates.Importer.csproj",
+        "projectUniqueName": "C:\\Angel Repos\\Entity-Framework-Core---Best-Practices-And-Architecture\\RealEstates\\RealEstates.Importer\\RealEstates.Importer.csproj",
         "projectName": "RealEstates.Importer",
-        "projectPath": "C:\\Angel\\Entity-Framework-Core---Best-Practices-And-Architecture\\RealEstates\\RealEstates.Importer\\RealEstates.Importer.csproj",
+        "projectPath": "C:\\Angel Repos\\Entity-Framework-Core---Best-Practices-And-Architecture\\RealEstates\\RealEstates.Importer\\RealEstates.Importer.csproj",
         "packagesPath": "C:\\Users\\georg\\.nuget\\packages\\",
-        "outputPath": "C:\\Angel\\Entity-Framework-Core---Best-Practices-And-Architecture\\RealEstates\\RealEstates.Importer\\obj\\",
+        "outputPath": "C:\\Angel Repos\\Entity-Framework-Core---Best-Practices-And-Architecture\\RealEstates\\RealEstates.Importer\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\georg\\AppData\\Roaming\\NuGet\\NuGet.Config",

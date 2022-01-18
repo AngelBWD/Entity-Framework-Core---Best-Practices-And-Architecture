@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "0XdtsqqFHjZUrjahorKZr2nzHftzryroGvGSWTPrGBk8lJ/ea9YyjCoa0IkNP5ehMIRhon7O6jSkvcxPmxYfsA==",
+  "dgSpecHash": "IozptdncIMe14HwvU0p3bxWh4v7s6X6WIJypbldXbCMnPUUcU01OIlbvFyAJvcG5bJ6R3jUDztBQ0gUIiA0e4A==",
   "success": true,
-  "projectFilePath": "C:\\Angel\\Entity-Framework-Core---Best-Practices-And-Architecture\\RealEstates\\RealEstates.ConsoleApplication\\RealEstates.ConsoleApplication.csproj",
+  "projectFilePath": "C:\\Angel Repos\\Entity-Framework-Core---Best-Practices-And-Architecture\\RealEstates\\RealEstates.ConsoleApplication\\RealEstates.ConsoleApplication.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "TLud8qhnG3/i0Kwm/WzTMMhbWsJUoPInYwD65x3nSNpZRg74IdhJC8cZqkU4Jr2uzO/Lv8jjDhc5OhzWbnlFtQ==",
+  "dgSpecHash": "YXaw9HglidzBndGzJf6Q3sIW7pDQHJEWhIc+GI1RK+9QnuphcR4/B3yusuvMmO/cqLiXnjmWX8TxErka/e0f6A==",
   "success": true,
-  "projectFilePath": "C:\\Angel\\Entity-Framework-Core---Best-Practices-And-Architecture\\RealEstates\\RealEstates.Models\\RealEstates.Models.csproj",
+  "projectFilePath": "C:\\Angel Repos\\Entity-Framework-Core---Best-Practices-And-Architecture\\RealEstates\\RealEstates.Models\\RealEstates.Models.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

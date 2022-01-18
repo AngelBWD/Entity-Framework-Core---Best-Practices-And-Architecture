@@ -1,2 +1,16 @@
-﻿// See https://aka.ms/new-console-template for more information
-Console.WriteLine("Hello, World!");
+﻿using Microsoft.EntityFrameworkCore;
+using RealEstates.Data;
+
+namespace RealEstates.ConsoleApplication
+{
+    class Program
+    {
+        static void Main (string[] args)
+        {
+            var db = new ApplicationDbContext();
+            db.Database.Migrate();
+
+
+        }
+    }
+}

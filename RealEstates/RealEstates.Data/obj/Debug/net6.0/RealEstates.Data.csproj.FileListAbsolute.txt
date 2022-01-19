@@ -1,0 +1,17 @@
+C:\Angel Repos\Entity-Framework-Core---Best-Practices-And-Architecture\RealEstates\RealEstates.Data\bin\Debug\net6.0\RealEstates.Data.deps.json
+C:\Angel Repos\Entity-Framework-Core---Best-Practices-And-Architecture\RealEstates\RealEstates.Data\bin\Debug\net6.0\RealEstates.Data.runtimeconfig.json
+C:\Angel Repos\Entity-Framework-Core---Best-Practices-And-Architecture\RealEstates\RealEstates.Data\bin\Debug\net6.0\RealEstates.Data.dll
+C:\Angel Repos\Entity-Framework-Core---Best-Practices-And-Architecture\RealEstates\RealEstates.Data\bin\Debug\net6.0\ref\RealEstates.Data.dll
+C:\Angel Repos\Entity-Framework-Core---Best-Practices-And-Architecture\RealEstates\RealEstates.Data\bin\Debug\net6.0\RealEstates.Data.pdb
+C:\Angel Repos\Entity-Framework-Core---Best-Practices-And-Architecture\RealEstates\RealEstates.Data\bin\Debug\net6.0\RealEstates.Models.dll
+C:\Angel Repos\Entity-Framework-Core---Best-Practices-And-Architecture\RealEstates\RealEstates.Data\bin\Debug\net6.0\RealEstates.Models.pdb
+C:\Angel Repos\Entity-Framework-Core---Best-Practices-And-Architecture\RealEstates\RealEstates.Data\obj\Debug\net6.0\RealEstates.Data.csproj.AssemblyReference.cache
+C:\Angel Repos\Entity-Framework-Core---Best-Practices-And-Architecture\RealEstates\RealEstates.Data\obj\Debug\net6.0\RealEstates.Data.GeneratedMSBuildEditorConfig.editorconfig
+C:\Angel Repos\Entity-Framework-Core---Best-Practices-And-Architecture\RealEstates\RealEstates.Data\obj\Debug\net6.0\RealEstates.Data.AssemblyInfoInputs.cache
+C:\Angel Repos\Entity-Framework-Core---Best-Practices-And-Architecture\RealEstates\RealEstates.Data\obj\Debug\net6.0\RealEstates.Data.AssemblyInfo.cs
+C:\Angel Repos\Entity-Framework-Core---Best-Practices-And-Architecture\RealEstates\RealEstates.Data\obj\Debug\net6.0\RealEstates.Data.csproj.CoreCompileInputs.cache
+C:\Angel Repos\Entity-Framework-Core---Best-Practices-And-Architecture\RealEstates\RealEstates.Data\obj\Debug\net6.0\RealEstates.Data.csproj.CopyComplete
+C:\Angel Repos\Entity-Framework-Core---Best-Practices-And-Architecture\RealEstates\RealEstates.Data\obj\Debug\net6.0\RealEstates.Data.dll
+C:\Angel Repos\Entity-Framework-Core---Best-Practices-And-Architecture\RealEstates\RealEstates.Data\obj\Debug\net6.0\ref\RealEstates.Data.dll
+C:\Angel Repos\Entity-Framework-Core---Best-Practices-And-Architecture\RealEstates\RealEstates.Data\obj\Debug\net6.0\RealEstates.Data.pdb
+C:\Angel Repos\Entity-Framework-Core---Best-Practices-And-Architecture\RealEstates\RealEstates.Data\obj\Debug\net6.0\RealEstates.Data.genruntimeconfig.cache
